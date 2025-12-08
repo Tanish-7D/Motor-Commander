@@ -1,0 +1,3 @@
+float64 stepper_optimal_flowrate
+float64 stepper_current_flowrate
+float64 bulk_q
