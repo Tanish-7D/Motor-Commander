@@ -69,12 +69,12 @@ Your workspace structure will look like:
 
 ```
 ~/pi_ws/
-├── src/
-│   ├── motorcontrol_messages/
-│   │   ├── msg/
-│   │   │   └── FlowData.msg
-│   │   ├── CMakeLists.txt
-│   │   └── package.xml
+├── motorcontrol_messages/
+│       ├── msg/
+│       │   └── FlowData.msg
+│       ├── CMakeLists.txt
+│       └── package.xml
+├── src/   
 │   └── motor_commander/
 │       ├── src/
 │       │   ├── bldc_pwm.cpp
