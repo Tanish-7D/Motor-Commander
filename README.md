@@ -65,7 +65,7 @@ This workspace includes two ROS 2 packages:
 - **motorcontrol_messages** - Custom message definitions (FlowData.msg)
 - **motor_commander** - Motor control nodes
 
-Your workspace structure will look like:
+Workspace structure:
 
 ```
 ~/pi_ws/
